@@ -24,7 +24,7 @@ function setup() {
 	dustbinObj=new dustbin(1200,650);
 	
 	Engine.run(engine);
-	
+	Render.run(render);
   
 }
 
