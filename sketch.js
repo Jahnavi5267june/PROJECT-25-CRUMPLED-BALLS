@@ -20,7 +20,7 @@ function setup() {
 	
 	
 	
-	paperObject=new Paper(200,450,60);
+	paperObject=new Paper(200,450,70);
 	groundObject=new ground(width/2,670,width,20);
 	dustbinObj=new dustbin(1200,650);
 	
